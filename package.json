@@ -1,0 +1,19 @@
+{
+  "name": "bad-games",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.159.0",
+    "gsap": "^3.12.4",
+    "simple-peer": "^9.11.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  }
+}
